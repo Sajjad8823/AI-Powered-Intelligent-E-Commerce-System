@@ -1,2 +1,3 @@
 # AI-Powered-Intelligent-E-Commerce-System
-Developed an AI-powered intelligent e-commerce system to collect, process, and analyze product data from multiple e-commerce platforms.
+Developed an AI-powered intelligent e-commerce system to collect, process, and analyze product data from multiple e-commerce platforms.Implemented automated web scraping using Python, Selenium, and Scrapy to extract product information from dynamic websites. Designed ETL pipelines for data cleaning, normalization, deduplication, and integration. Worked on machine learning-based product prediction and recommendation models using Scikit-learn, TensorFlow, and PyTorch. Explored solutions to challenges such as data sparsity, cold-start problems, and anti-bot mechanisms. Used Docker for deployment and application management.
+Technologies: Python, Selenium, Scrapy, Scikit-learn, TensorFlow, PyTorch, Docker, ETL.
